@@ -1,0 +1,10 @@
+ARABIDOPSIS THALLIANA x CAERNORHABDITIS ELEGANS: aantal afwijkent: 20 identity: 3.7%
+ARABIDOPSIS THALLIANA x DICTYOSTELIUM DISCOIDEUM: aantal afwijkent: 16 identity: 1.3%
+ARABIDOPSIS THALLIANA x HOMO SAPIENS: aantal afwijkent: 15 identity: 1.6%
+ARABIDOPSIS THALLIANA x XENOPUS LAEVIS: aantal afwijkent: 10 identity: 2.1%
+DICTYOSTELIUM DISCOIDEUM x CAERNORHABDITIS ELEGANS: aantal afwijkent: 42 identity: 3.5%
+DICTYOSTELIUM DISCOIDEUM x HOMO SAPIENS: aantal afwijkent: 77 indentity: 6.5%
+DICTYOSTELIUM DISCOIDEUM x XENOPUS LAEVIS: aantal afwijkent: 30 identity: 2.5%
+CAERNORHABDITIS ELEGANS x HOMO SAPIENS: aantal afwijkent: 29 identity: 3.1%
+CAERNORHABDITIS ELEGANS x XENOPUS LAEVIS: aantal afwijkent:21 identity: 3.9%
+HOMO SAPIENS x XENOPUS LAEVIS: aantal afwijkent: 34 identity: 3.7%
